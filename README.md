@@ -1,5 +1,5 @@
 <!-- Заголовок профиля -->
-<h1 align="center">Привет! Я <a href="https://github.com/Uttake" target="_blank">Uttake</a> 👋</h1>
+<!-- <h1 align="center">Привет! Я <a href="https://github.com/Uttake" target="_blank">Uttake</a> 👋</h1>
 
 <!-- Анимация -->
 <div align="center">
@@ -34,5 +34,5 @@
 ### 📬 **Контакты**
 
 - ✉️ Gmail: [kazimirovanton07@gmail.com](mailto:kazimirovanton07@gmail.com)  
-- 🔗 Telegram: [@uttake](https://t.me/uttake)
+- 🔗 Telegram: [@uttake](https://t.me/uttake) -->
 
